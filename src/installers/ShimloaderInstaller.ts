@@ -22,7 +22,7 @@ export class ShimloaderInstaller implements PackageInstaller {
 
         const targets = [
             ["dwmapi.dll", "dwmapi.dll"],
-            ["UE4SS/ue4ss.dll", "ue4ss.dll"],
+            ["UE4SS/UE4SS.dll", "UE4SS.dll"],
             ["UE4SS/UE4SS-settings.ini", "UE4SS-settings.ini"],
         ];
 
